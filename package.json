@@ -18,6 +18,7 @@
     "@feathersjs/express": "^4.3.0",
     "@feathersjs/feathers": "^4.3.0",
     "@feathersjs/socketio": "^4.3.0",
+    "express": "^4.17.1",
     "winston": "^3.2.1"
   }
 }
