@@ -1,3 +1,5 @@
+delete require.cache[require.resolve('../src/app')];
+
 const io = require('socket.io-client');
 const AppServer = require('./fixtures/appserver_feathers');
 const app = require('../src/app');
